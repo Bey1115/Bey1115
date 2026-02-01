@@ -13,6 +13,7 @@ Data analytics, statistical modeling, and exploratory analysis
 Data quality checks, transformations, and reporting
 
 Currently focused on:
+
 Improving data pipeline reliability and performance
 Learning modern data stacks and best practices
 Strengthening statistical thinking for real-world data problems
